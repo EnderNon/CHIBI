@@ -1,10 +1,13 @@
+![Example image](https://raw.githubusercontent.com/EnderNon/CHIBI/main/example.png)
+
 # What is this?
 Collection of those chibi meme things. dunno what they're called. Please submit pull request or make an issue if you want to add to the collection.
+### DISCLAIMER: I DID NOT MAKE ANY OF THESE, AND I DON'T KNOW WHO THE ARTISTS ARE, I GOT THESE FROM OTHER PEOPLE'S COLLECTIONS
 
 # There's no image thumbnails
-Blame github for this one
+Blame github for this one, unfortunately you have to click each one seperately
 
-# WEBP does not load
+# WEBP does not show as image
 Click "View Raw". Blame github for this one.
 
 # How to add your own stuff / make your own corrections?
