@@ -1,6 +1,12 @@
 # What is this?
 Collection of those chibi meme things. dunno what they're called. Please submit pull request or make an issue if you want to add to the collection.
 
+# There's no image thumbnails
+Blame github for this one
+
+# WEBP does not load
+Click "View Raw". Blame github for this one.
+
 # How to add your own stuff / make your own corrections?
 ## 1) Make a pull request 
 To do this, you have to:
